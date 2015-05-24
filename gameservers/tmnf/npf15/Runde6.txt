@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<playlist>
+   <gameinfos>
+       <game_mode>1</game_mode>
+       <chat_time>10000</chat_time>
+       <rounds_pointslimit>30</rounds_pointslimit>
+       <rounds_usenewrules>0</rounds_usenewrules>
+       <timeattack_limit>480000</timeattack_limit>
+       <timeattack_synchstartperiod>0</timeattack_synchstartperiod>
+       <team_pointslimit>5</team_pointslimit>
+       <team_maxpoints>10</team_maxpoints>
+       <team_usenewrules>0</team_usenewrules>
+       <laps_nblaps>3</laps_nblaps>
+       <laps_timelimit>0</laps_timelimit>
+   </gameinfos>
+
+   <filter>
+       <random_map_order>0</random_map_order>
+   </filter>
+
+   <challenge>
+       <file>npf15\OPVARMNING.Challenge.Gbx</file>
+       <ident>U0ye1jSM6yvioCnlmOujHJ7Q0I8</ident>
+   </challenge>
+   <challenge>
+       <file>npf15\Pulse.Challenge.Gbx</file>
+       <ident>U0ye1jSM6yvioCnlmOujHJ7Q0I8</ident>
+   </challenge>
+   <challenge>
+       <file>npf15\$W$F00XXX $g$iFirebrand.Challenge.Gbx</file>
+       <ident>U0ye1jSM6yvioCnlmOujHJ7Q0I8</ident>
+   </challenge>
+   <challenge>
+       <file>npf15\$00FU$23Fr$46Fb$59Fa$7CFn$9FF $9FFJ$7CFu$59Fn$46Fg$23Fl$00Fe.Challenge.Gbx</file>
+       <ident>U0ye1jSM6yvioCnlmOujHJ7Q0I8</ident>
+   </challenge>
+   <challenge>
+       <file>npf15\RUNDE SLUT.Challenge.Gbx</file>
+       <ident>U0ye1jSM6yvioCnlmOujHJ7Q0I8</ident>
+   </challenge>
+</playlist>
