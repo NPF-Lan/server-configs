@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<playlist>
+   <gameinfos>
+       <game_mode>1</game_mode>
+       <chat_time>10000</chat_time>
+       <rounds_pointslimit>30</rounds_pointslimit>
+       <rounds_usenewrules>0</rounds_usenewrules>
+       <timeattack_limit>420000</timeattack_limit>
+       <timeattack_synchstartperiod>0</timeattack_synchstartperiod>
+       <team_pointslimit>5</team_pointslimit>
+       <team_maxpoints>10</team_maxpoints>
+       <team_usenewrules>0</team_usenewrules>
+       <laps_nblaps>3</laps_nblaps>
+       <laps_timelimit>0</laps_timelimit>
+   </gameinfos>
+
+   <filter>
+       <random_map_order>0</random_map_order>
+   </filter>
+
+   <challenge>
+       <file>npf16\$000$sK7.Challenge.Gbx</file>
+       <ident>U0ye1jSM6yvioCnlmOujHJ7Q0I8</ident>
+   </challenge>
+   <challenge>
+       <file>npf16\$000THC $fffshorty 4.Challenge.Gbx</file>
+       <ident>U0ye1jSM6yvioCnlmOujHJ7Q0I8</ident>
+   </challenge>
+   <challenge>
+       <file>npf16\$008P$229u$44Are$66B $99CTe$BBDch $99CS$66Bt$44Ao$229r$008y.Challenge.Gbx</file>
+       <ident>U0ye1jSM6yvioCnlmOujHJ7Q0I8</ident>
+   </challenge>
+   <challenge>
+       <file>npf16\$00FU$23Fr$46Fb$59Fa$7CFn$9FF $9FFJ$7CFu$59Fn$46Fg$23Fl$00Fe.Challenge.Gbx</file>
+       <ident>U0ye1jSM6yvioCnlmOujHJ7Q0I8</ident>
+   </challenge>
+   <challenge>
+       <file>npf16\$113Open $092your eyes. CR.Challenge.Gbx</file>
+       <ident>U0ye1jSM6yvioCnlmOujHJ7Q0I8</ident>
+   </challenge>
+   <challenge>
+       <file>npf16\$345$wIron Maiden.Challenge.Gbx</file>
+       <ident>U0ye1jSM6yvioCnlmOujHJ7Q0I8</ident>
+   </challenge>
+   <challenge>
+       <file>npf16\$380Japa$480n$580 St$680y$780le.Challenge.Gbx</file>
+       <ident>U0ye1jSM6yvioCnlmOujHJ7Q0I8</ident>
+   </challenge>
+   <challenge>
+       <file>npf16\$930$wB$mrown $wS$mtains.Challenge.Gbx</file>
+       <ident>U0ye1jSM6yvioCnlmOujHJ7Q0I8</ident>
+   </challenge>
+   <challenge>
+       <file>npf16\$fffESL$f00-$fffI follow y$f00o$fffu.Challenge.Gbx</file>
+       <ident>U0ye1jSM6yvioCnlmOujHJ7Q0I8</ident>
+   </challenge>
+   <challenge>
+       <file>npf16\$s$d92CoA_4_  $157$iSali-Ysi Bridge.Challenge.Gbx</file>
+       <ident>U0ye1jSM6yvioCnlmOujHJ7Q0I8</ident>
+   </challenge>
+   <challenge>
+       <file>npf16\$s$f80Base.Challenge.Gbx</file>
+       <ident>U0ye1jSM6yvioCnlmOujHJ7Q0I8</ident>
+   </challenge>
+   <challenge>
+       <file>npf16\$s$i$07c~MiniTrack 3~.Challenge.Gbx</file>
+       <ident>U0ye1jSM6yvioCnlmOujHJ7Q0I8</ident>
+   </challenge>
+   <challenge>
+       <file>npf16\$W$F00XXX $g$iFirebrand.Challenge.Gbx</file>
+       <ident>U0ye1jSM6yvioCnlmOujHJ7Q0I8</ident>
+   </challenge>
+   <challenge>
+       <file>npf16\$w$ff0Round$00fTrip.Challenge.Gbx</file>
+       <ident>U0ye1jSM6yvioCnlmOujHJ7Q0I8</ident>
+   </challenge>
+   <challenge>
+       <file>npf16\$w$i$b39Sti$c39cky $d39Tar$e39mac.Challenge.Gbx</file>
+       <ident>U0ye1jSM6yvioCnlmOujHJ7Q0I8</ident>
+   </challenge>
+   <challenge>
+       <file>npf16\%3fedemption.Challenge.Gbx</file>
+       <ident>U0ye1jSM6yvioCnlmOujHJ7Q0I8</ident>
+   </challenge>
+   <challenge>
+       <file>npf16\-003- Lawn in the End.Challenge.Gbx</file>
+       <ident>U0ye1jSM6yvioCnlmOujHJ7Q0I8</ident>
+   </challenge>
+   <challenge>
+       <file>npf16\Down Down Down.Challenge.Gbx</file>
+       <ident>U0ye1jSM6yvioCnlmOujHJ7Q0I8</ident>
+   </challenge>
+   <challenge>
+       <file>npf16\easy$f60M$fccap $f602.Challenge.Gbx</file>
+       <ident>U0ye1jSM6yvioCnlmOujHJ7Q0I8</ident>
+   </challenge>
+   <challenge>
+       <file>npf16\feVer.Challenge.Gbx</file>
+       <ident>U0ye1jSM6yvioCnlmOujHJ7Q0I8</ident>
+   </challenge>
+   <challenge>
+       <file>npf16\Fuzion .Challenge.Gbx</file>
+       <ident>U0ye1jSM6yvioCnlmOujHJ7Q0I8</ident>
+   </challenge>
+   <challenge>
+       <file>npf16\Ivor No Clue.Challenge.Gbx</file>
+       <ident>U0ye1jSM6yvioCnlmOujHJ7Q0I8</ident>
+   </challenge>
+   <challenge>
+       <file>npf16\Jack´s erstes mal.Challenge.Gbx</file>
+       <ident>U0ye1jSM6yvioCnlmOujHJ7Q0I8</ident>
+   </challenge>
+   <challenge>
+       <file>npf16\Mini%60No_Reputation..Challenge.Gbx</file>
+       <ident>U0ye1jSM6yvioCnlmOujHJ7Q0I8</ident>
+   </challenge>
+   <challenge>
+       <file>npf16\Napzter ten.Challenge.Gbx</file>
+       <ident>U0ye1jSM6yvioCnlmOujHJ7Q0I8</ident>
+   </challenge>
+   <challenge>
+       <file>npf16\Parallel Lines.Challenge.Gbx</file>
+       <ident>U0ye1jSM6yvioCnlmOujHJ7Q0I8</ident>
+   </challenge>
+   <challenge>
+       <file>npf16\Pulse.Challenge.Gbx</file>
+       <ident>U0ye1jSM6yvioCnlmOujHJ7Q0I8</ident>
+   </challenge>
+   <challenge>
+       <file>npf16\Q_u_b_e__2.Challenge.Gbx</file>
+       <ident>U0ye1jSM6yvioCnlmOujHJ7Q0I8</ident>
+   </challenge>
+   <challenge>
+       <file>npf16\Shine_from_within_.Challenge.Gbx</file>
+       <ident>U0ye1jSM6yvioCnlmOujHJ7Q0I8</ident>
+   </challenge>
+   <challenge>
+       <file>npf16\Tight_Section.Challenge.Gbx</file>
+       <ident>U0ye1jSM6yvioCnlmOujHJ7Q0I8</ident>
+   </challenge>
+   <challenge>
+       <file>npf16\Twilight_Impact.Challenge.Gbx</file>
+       <ident>U0ye1jSM6yvioCnlmOujHJ7Q0I8</ident>
+   </challenge>
+   <challenge>
+       <file>npf16\~Mini_Tribute_1_-_Timebreaker.Challenge.Gbx</file>
+       <ident>U0ye1jSM6yvioCnlmOujHJ7Q0I8</ident>
+   </challenge>
+</playlist>

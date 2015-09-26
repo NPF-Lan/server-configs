@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<playlist>
+   <gameinfos>
+       <game_mode>1</game_mode>
+       <chat_time>10000</chat_time>
+       <rounds_pointslimit>30</rounds_pointslimit>
+       <rounds_usenewrules>0</rounds_usenewrules>
+       <timeattack_limit>420000</timeattack_limit>
+       <timeattack_synchstartperiod>0</timeattack_synchstartperiod>
+       <team_pointslimit>5</team_pointslimit>
+       <team_maxpoints>10</team_maxpoints>
+       <team_usenewrules>0</team_usenewrules>
+       <laps_nblaps>3</laps_nblaps>
+       <laps_timelimit>0</laps_timelimit>
+   </gameinfos>
+
+   <filter>
+       <random_map_order>0</random_map_order>
+   </filter>
+
+   <challenge>
+       <file>npf16\OPVARMNING.Challenge.Gbx</file>
+       <ident>U0ye1jSM6yvioCnlmOujHJ7Q0I8</ident>
+   </challenge>
+   <challenge>
+       <file>npf16\$000T$fffm$000T $555- $i$f00V$f60ulture $fffv2.Challenge.Gbx</file>
+       <ident>U0ye1jSM6yvioCnlmOujHJ7Q0I8</ident>
+   </challenge>
+   <challenge>
+       <file>npf16\$i$00dCrash$000-$d00Burn$000-$0d0Repeat.Challenge.Gbx</file>
+       <ident>U0ye1jSM6yvioCnlmOujHJ7Q0I8</ident>
+   </challenge>
+   <challenge>
+       <file>npf16\ESL-Hockolicious.Challenge.Gbx</file>
+       <ident>U0ye1jSM6yvioCnlmOujHJ7Q0I8</ident>
+   </challenge>
+   <challenge>
+       <file>npf16\RUNDE SLUT.Challenge.Gbx</file>
+       <ident>U0ye1jSM6yvioCnlmOujHJ7Q0I8</ident>
+   </challenge>
+</playlist>
