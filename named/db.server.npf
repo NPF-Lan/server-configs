@@ -1,0 +1,19 @@
+;
+; BIND data file for local loopback interface
+;
+$TTL	604800
+@	IN	SOA	ns.server.npf. root.server.npf. (
+			      2		; Serial
+			 604800		; Refresh
+			  86400		; Retry
+			2419200		; Expire
+			 604800 )	; Negative Cache TTL
+;
+@	IN	NS	dns.server.npf.
+@	IN	NS	dns2.server.npf.
+@	IN	A	10.100.103.8
+ns	IN	A	10.100.103.8
+root	IN	A	10.100.103.8
+reposerver2	IN	A	10.100.103.8
+dns		IN	A	10.100.103.8
+dns2		IN	A	10.96.5.1
